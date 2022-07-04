@@ -10,7 +10,7 @@ body{
     font-weight: 600;
     font-size: 24px;
     padding: 20px 50px;
-    padding-right: 260px;
+    padding-right: 300px;
 }
 
 header{
@@ -18,7 +18,66 @@ header{
     align-items:center;
 }
 .home{
-    word-spacing: 50px;
+    word-spacing: 70px;
     font-weight: 400;
     font-size: 18px;
+}
+
+.intro{
+    font-weight: 500;
+    font-size: 28px;
+    padding-top: 150px;
+    margin: 0px;
+    padding-bottom: 0px;
+}
+
+.profession{
+    font-weight: 800;
+    font-size: 100px;
+    margin: 0px;
+}
+
+.location{
+    font-weight: 500;
+    font-size: 28px;
+    margin: 0px;
+    padding-bottom: 40px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.image{
+    border-radius: 50%;
+    padding-right: 50px;   
+}
+
+.button{
+    background-color: #F5EE84;
+    width: 158px;
+    height: 61px;
+    border-radius: 6px;
+    color: #474306;
+    font-weight: 400;
+}
+
+.about{
+    font-weight: 800;
+    font-size: 100px;
+    color: #F7F197;
+    padding-left: 50px;
+    padding-top: 150px;
+    margin: 0px;
+}
+
+.para{
+    font-weight: 400;
+    font-size: 24px; 
+    padding: 50px;
+    margin: 0px;
+     
 }
