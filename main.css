@@ -62,6 +62,7 @@ header{
 }
 
 .button{
+    font-size: 20px;
     background-color: #F5EE84;
     width: 158px;
     height: 61px;
